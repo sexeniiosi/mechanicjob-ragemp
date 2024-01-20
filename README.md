@@ -1,5 +1,7 @@
 # <span style="font-size:32px;">RAGE MP Mechanic Script</span>
 
+**Note: This script is currently in alpha development. Use with caution in a testing environment.**
+
 ## <span style="font-size:24px;">Description</span>
 This RAGE MP resource enables mechanics to easily inspect and repair vehicle damages in the game. It is used on both the server and the client to provide an interactive mechanic experience.
 
@@ -39,4 +41,3 @@ This RAGE MP resource enables mechanics to easily inspect and repair vehicle dam
   - Adjust the script parameters as needed for your server.
   
 </details>
-
