@@ -1,0 +1,4 @@
+<meta>
+    <script src="server/server.js" type="server" />
+    <script src="client/client.js" type="client" />
+</meta>
