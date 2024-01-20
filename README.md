@@ -26,6 +26,7 @@ This RAGE MP resource enables mechanics to easily inspect and repair vehicle dam
 
 <details>
   <summary><strong>How to Install</strong></summary>
+
   
   1. Place the files in the appropriate directories on your RAGE MP server.
   2. Start the RAGE MP server.
