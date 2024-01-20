@@ -13,7 +13,7 @@ This RAGE MP resource enables mechanics to easily inspect and repair vehicle dam
 - Allows players to view damages when they are near the vehicle.
 
 ## <span style="font-size:20px;">Usage</span>
-1. Clone the repository: `git clone https://github.com/yourusername/repository.git`
+
 2. Place the files in the appropriate directories on your RAGE MP server.
 3. Start the RAGE MP server.
 4. In the server console, start the resource with the command `/start resource_name`.
