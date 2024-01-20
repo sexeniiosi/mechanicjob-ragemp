@@ -14,9 +14,9 @@ This RAGE MP resource enables mechanics to easily inspect and repair vehicle dam
 
 ## <span style="font-size:20px;">Usage</span>
 
-2. Place the files in the appropriate directories on your RAGE MP server.
-3. Start the RAGE MP server.
-4. In the server console, start the resource with the command `/start resource_name`.
+1. Place the files in the appropriate directories on your RAGE MP server.
+2. Start the RAGE MP server.
+3. In the server console, start the resource with the command `/start resource_name`.
 
 ## <span style="font-size:20px;">Notes</span>
 - Make sure you have set up the appropriate animations and sounds.
@@ -27,7 +27,6 @@ This RAGE MP resource enables mechanics to easily inspect and repair vehicle dam
 <details>
   <summary><strong>How to Install</strong></summary>
 
-  
   1. Place the files in the appropriate directories on your RAGE MP server.
   2. Start the RAGE MP server.
   3. In the server console, start the resource with the command `/start resource_name`.
