@@ -22,7 +22,7 @@ function showVehicleDamage(damageData, vehicleId) {
             if (!position) return;
 
             const componentText = `${component}: ${damageData[component]}%`;
-            const yOffset = -0.5; // Prilagodite vertikalni pomak po potrebi
+            const yOffset = -0.5; // Adjust vertical offset as needed
 
             mp.game.graphics.drawText(componentText, position.x, position.y, { font: 4, color: [255, 255, 255, 255], scale: [0.5, 0.5], outline: true });
 
@@ -62,9 +62,9 @@ function getComponentPosition(vehicleId, component) {
     return position;
 }
 
-// Funkcija za određivanje vertikalnog pomaka teksta na osnovu komponente
+// Function for determining vertical text offset based on component
 function getYOffset(component) {
-    // Prilagodite vertikalni pomak po potrebi
+    // Adjust vertical offset as needed
     switch (component) {
         case "Hood":
             return -0.1;
